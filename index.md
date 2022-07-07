@@ -1,37 +1,109 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="bookmark" href="favicon.ico" type="image/x-icon"　/>
+<title>Wei, Zhang (张伟)</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Menu</div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="">Google Scholar</a></div>
+<div class="menu-item"><a href="">ResearchGate</a></div>
+<div class="menu-item"><a href="https://github.com/wayc1010">GitHub</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Wei, Zhang (张伟) </h1>
+</div>
+<table class="imgtable"><tr><td>
+<a href="https://wayc1010.github.io/"><img src="photos/bio.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
+<td align="left"><p>Researcher,<br />
+Research Institute,<br />
+Pingtan Research Institute of Xiamen University. <br />
+Beicuo Town, <br />
+Fuzhou City, China <br /> 
+E-mail: <a href="mailto:wzhang1010@foxmail.com">wzhang1010@foxmail.com</a></p>
+</td></tr></table>
+<h2>About me</h2>
+<p>I received the M.S. degree from Xiamen University, in 2021. I am currently a researcher with the Research Institute, Pingtan Research Institute of Xiamen University, China. My main research interests include Deep Learning, Computer Vision, Knowledge Graph and Recommender Systems. Also, I do some research about Drug discovery, such as DDI, and DTI. I focus on using AI to solve practical problems.</p>
+<h2>Research</h2>
+<p>My research interests include: </p>
+<ul>
+<li><p>Deep Learning  </p>
+</li>
+<li><p>Computer Vision</p>
+</li>
+<li><p>Knowledge Graph</p>
+</li>
+<li><p>Recommender Systems</p>
+</li>
+</ul>
+<h3>Current work</h3>
+<ul>
+<li><p>Structure-based Protein Design with Deep Learning</p>
+</li>
+<li><p>CNN for Recommendationn</p>
+</li>
+<li><p>Reinforcement Learning for Explainable Recommendation</p>
+</li>
+<li><p>Time Series Prediction</p>
+</li>
+</ul>
+<h3>Under review</h3>
+<ol>
+<li><p>W. Zhang, Y. Lin, Y. Liu, P. Wu, F. Lin*, and <b>X. Zhou</b>*, "Self-Supervised Reinforcement Learning for Knowledge-aware Recommendation".</p>
+</li>
+<li><p>Y. Lin, W. Zhang, <b>X. Zhou</b>, F. Lin*, W. Zeng, L. Zou*, Y. Liu, P. Wu, "Knowledge-aware Reasoning with Self-supervised Reinforcement Learning for Explainable Recommendation in MOOCs".</p>
+</li> 
+<li><p>M. Chen, T. Ma, and <b>X. Zhou</b>*, "CoGraph: Co-occurrence Graph for Recommendation".</p>
+</ol>
+<h3>Recent publications </h3>
+<ol>
+<li><p></p>
+</li>
+<li><p></p>
+</li>
+<li><p></p>
+</li>
+</ol>
+<p><b>Note</b>: * indicates the corresponding author.</p>
 
-You can use the [editor on GitHub](https://github.com/wayc1010/wayc1010.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<h3>Academic service</h3>
+<p><b>Reviewer</b></p>
+<ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</ul>
 
-### Markdown
+<h2>Projects</h2>
+<ol>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</ol>
+<h2>Education</h2>
 
-```markdown
-Syntax highlighted code block
+<h3>Competitions and awards</h3>
+<ol>
 
-# Header 1
-## Header 2
-### Header 3
+</ol>
+<h3>Activities</h3>
+<ol>
 
-- Bulleted
-- List
+</ol>
+<h2>Work experience</h2>
+<ol>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wayc1010/wayc1010.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</ol>
+<p><br />
+<a href="">A brief cv</a>.</p>
+</td>
+</tr>
+</table>
+</body>
+</html>
