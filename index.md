@@ -24,7 +24,7 @@
 <h1>Wei, Zhang (张伟) </h1>
 </div>
 <table class="imgtable"><tr><td>
-<a href="https://wayc1010.github.io/"><img src="photos/bio.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
+<a href="https://wayc1010.github.io/"><img src="photos/bio.png" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
 <td align="left"><p>Researcher,<br />
 Research Institute,<br />
 Pingtan Research Institute of Xiamen University. <br />
